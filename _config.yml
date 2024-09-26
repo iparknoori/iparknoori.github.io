@@ -21,7 +21,7 @@ title                    : "Noori's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Park HyeJun"
-description              : "A website for study records"
+description              : "A website for keeping track of study records"
 url                      : "https://iparknoori.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
